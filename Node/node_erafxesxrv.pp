@@ -1,5 +1,5 @@
 class node_vm-erafxesxrv {
-    $admins = []
+    $admins = ["Ad.Min"]
     $users = []
 
     realize(Accounts::Virtual[$admins], Accounts::Sudoroot[$admins])
